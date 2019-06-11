@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msgG }} 於 {{ sec }} 後刷新</h1>
+    <h1>{{ msgG }} 於 {{ sec }} 秒後刷新</h1>
     <table  class="table">
         <thead>
             <th>股票代碼</th>
